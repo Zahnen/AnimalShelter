@@ -1,0 +1,4 @@
+bin/
+obj/
+.vs_code
+.DS_Store
